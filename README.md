@@ -21,5 +21,8 @@ to kill you!
 # Gameplay
 ## Attention! While this is only an approximate idea, everything may change in the future!
 
+Game have 4 Game modes:
+- Hard:
+"For Braves!"
 
 - Sincerely [Styrax Games](https://play.google.com/store/apps/developer?id=Styrax+games).
